@@ -4,9 +4,7 @@ Python program to move an EV3 robot to an unknown goal bounded by red lines insi
 ## Steps to run 
 1. Install Python on Ev3 
 2. Install EV3 extension on VSCode  
-3. Create a new project using the installed Ev3 extension
-  - Fork, clone, or download the code from the repository and paste it on main.py
-
+3. Create a new project using the installed Ev3 extension. Fork, clone, or download the code from the repository and paste it on main.py
 4. Connect the Ev3 robot
 5. Run the program using the Run and Debug option 
 
