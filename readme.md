@@ -1,5 +1,5 @@
 # Goal Finder
-Python program to move an EV3 robot to an unknown goal bounded by red lines inside a maze bounded by blue line. 
+Python program to move an EV3 robot to an unknown goal bounded by red lines inside a maze bounded by a blue line. 
 
 ## Steps to run 
 1. Install Python on Ev3 
@@ -13,6 +13,5 @@ Python program to move an EV3 robot to an unknown goal bounded by red lines insi
 - The user can place anything inside the red box, the robot will remove it 
 
 ## Dependencies 
-<!-- List all the dependecies used in the application -->
 - Light Sensor of Ev3 robot 
 - Color Sensor of Ev3 robot 
