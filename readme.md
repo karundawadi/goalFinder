@@ -12,6 +12,9 @@ Python program to move an EV3 robot to an unknown goal bounded by red lines insi
 - The robot can be placed anywhere inside the maze  
 - The user can place anything inside the red box, the robot will remove it 
 
+## Demo
+[![Robot Working](https://img.youtube.com/vi/ZQG79l2z7T8/0.jpg)](https://www.youtube.com/watch?v=ZQG79l2z7T8)
+
 ## Dependencies 
 - Light Sensor of Ev3 robot 
 - Color Sensor of the Ev3 robot 
