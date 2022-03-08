@@ -18,3 +18,6 @@ Python program to move an EV3 robot to an unknown goal bounded by red lines insi
 ## Dependencies 
 - Light Sensor of Ev3 robot 
 - Color Sensor of the Ev3 robot 
+
+## Team
+This was a team project. The team memebers were : [Shishir Bishowokarma](https://github.com/Shishir77) and [Robert Fabbro](https://github.com/PolskaFly)
